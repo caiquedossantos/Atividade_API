@@ -1,0 +1,9 @@
+.lista-usuarios li {
+    transition: transform 0.2s;
+  }
+  
+  .lista-usuarios li:hover {
+    transform: scale(1.02);
+    background-color: #dee2e6;
+  }
+  
